@@ -17,22 +17,22 @@
 "env": {
   "SESSION_ID": {
     "description": "The session string used to authenticate the bot with WhatsApp. Must begin with 'XPLOADER-BOT:~' or 'CYPHER-X:~'.",
-    "value": "",
-    "required": false
+    "value": "XPLOADER-BOT:~2TQ20YSI#gTN0aaUHaAQY1ha0q_btb_AMFGIV6_c9VAehPU28eHE",
+    "required": true
   },
   "BOT_NAME": {
     "description": "The display name of the bot as it will appear in interactions.",
     "value": "CypherX",
-    "required": false
+    "required": true
   },
   "OWNER_NUMBER": {
     "description": "The primary owner's WhatsApp number, including country code (e.g., 2547XXXXXXXX).",
-    "value": "",
+    "value": "242056717867",
     "required": true
   },
   "OWNER_NAME": {
     "description": "The name of the primary owner of the bot.",
-    "value": "",
+    "value": "𓆩𖠜𝐈𝐋𝐋𝐔𝐌𝐈𝐍𝐀𝐓𝐈𖠜𓆪່ ່𖥳່ ່𖥳່ ່𖥳່ ່𖥳່ ່𖥳່ ່𖥳່ ່༄  𝐆  𒊹  𝐑  𒊹  𝐈   𒊹  𝐌  𒊹  𝐌 𒊹",
     "required": true
   },
   "HEROKU_API_KEY": {
